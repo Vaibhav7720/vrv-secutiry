@@ -11,8 +11,8 @@ export const users = [
   },
   {
     userId: 2,
-    name: "jishnu",
-    email: "jishnu@gmail.com",
+    name: "Aniket",
+    email: "aniket@gmail.com",
     role: "User",
     status: "Inactive",
     created: "2024-02-15",
@@ -20,11 +20,11 @@ export const users = [
   },
   {
     userId: 3,
-    name: "akhil",
-    email: "akhil@gmail.com",
+    name: "avinash",
+    email: "avinash@gmail.com",
     role: "User",
     status: "Active",
-    created: "2024-03-12",
+    created: "2024-11-12",
     image:
       "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop&crop=faces",
   },
@@ -49,8 +49,8 @@ export const users = [
   // },
   {
     userId: 4,
-    name: "priya",
-    email: "priya@gmail.com",
+    name: "Monica",
+    email: "monica@gmail.com",
     role: "Manager",
     status: "Inactive",
     created: "2024-06-10",
